@@ -28,4 +28,4 @@ Here is a screenshot. Obviously nowaday this type of font for programming may no
 Anyway I wish someone who shares the same tastes can take over the development of this and make it a full-fledged
 programming typeface - as there are no free alternatives on the market.
 
-
+![Screenshot](https://github.com/hckiang/font-new-heterodox-mono/blob/24d7435613fb7658d6fb1e91c23c898e7055466f/screenshot01.png)
