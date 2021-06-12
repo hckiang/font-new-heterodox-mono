@@ -1,12 +1,12 @@
 # New Heterodox Mono
 
-Monospaced adaptation of Old Standard TT.
+A Classicist Monospaced Typeface based on Alexey Kryukov's Old Standard TT.
 
 Some years ago I made an adaption of the beautiful open-source font _Old Standard TT_ into a monospaced font
-for my own use. I have been using this a lot as my programming font but haven't got time to improve it. It is
-not perfect but since there are not much free choices of modern-style serifed monospace fonts (besides the
-Computer Modern family) I decided maybe I should upload it in case someone finds this useful or wants to
-help improving it.
+for my own use. I have been using this a lot as my programming font but I have never made it public or sell
+it because I thought it was very imperfect. Yes, this is not perfect yet, but since there are almost no free
+choices of modern-style serifed monospace fonts out there (besides the Computer Modern family) I decided
+maybe I should upload it in case someone finds this useful or wants to help improving it.
 
 I felt that it is very much non-"standard" in the computer science/programming community
 to use such a modern-style typeface in programming, so I named it "New Heterodox" as opposed to "Old Standard".
@@ -14,15 +14,15 @@ Ironically, "Old Standard" was named as opposed to "Obyknovennaya Novaya" ("New 
 the age of computers, the old-time "New Standard" has become "New Heterodox", as in many other things in
 design.
 
-The typeface currently only have ASCII character set and there may be some slight inconsistencies in the
-curves. For the purpose of programming it is pretty usable.
+The design has been slightly modified from Old Standard to adapt to monospace - especially the proportion of
+the letters, in this monospaced version, significantly deviate from the original. The letter 'f' and 't'
+have a very unorthodoxical look with respect to the historical norm.
 
-Further improvement may be to fix the anchors, make consistent the serif width, add back the
-pre-composed accented latin glyphs, add blue values etc. in the OS/2 table (I think emacs uses
-the blue value?) and maybe add italics and bolds. Also greek support would be nice - but adapting
-the greek letters to monospace may be quite some work.
+The typeface, at the current stage, is pretty usable for the purpose of programming, especially if you
+only need Western European glyphs. Some currency signs are missing, though.
 
-
+Further improvement may be to add more glyphs (for example, Polish is not supported yet), add greek
+support (very useful for science/mathematics), add italic and bold.
 
 Here is a screenshot. Obviously nowaday this type of font for programming may not be everyone's cup of tea...
 Anyway I wish someone who shares the same tastes can take over the development of this and make it a full-fledged
