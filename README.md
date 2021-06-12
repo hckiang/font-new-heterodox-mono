@@ -24,8 +24,11 @@ only need Western European glyphs. Some currency signs are missing, though.
 Further improvement may be to add more glyphs (for example, Polish is not supported yet), add greek
 support (very useful for science/mathematics), add italic and bold.
 
+# Screenshot
+
 Here is a screenshot. Obviously nowaday this type of font for programming may not be everyone's cup of tea...
 Anyway I wish someone who shares the same tastes can take over the development of this and make it a full-fledged
 programming typeface - as there are no free alternatives on the market.
 
-![Screenshot](https://github.com/hckiang/font-new-heterodox-mono/blob/a76c824488ebe647f48deb5140c41b8fce95f745/screenshot01.png)
+
+![Screenshot](https://github.com/hckiang/font-new-heterodox-mono/blob/01a6678c565384117a91da9eda28ee53bbe65cb9/screenshot01.png)
