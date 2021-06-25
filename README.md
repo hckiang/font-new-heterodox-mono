@@ -59,8 +59,7 @@ still taken care to retain the metalish feeling. Also the contrast has been slig
 Standard in order to improve readability in small size.
 
 The typeface, at the current stage, is pretty usable for the purpose of scientific/system programming or
-typesetting articles, especially if you only need Western European glyphs. For web programming - perhaps you will find
-some less frequently used signs missing, such as the Japanese yen, or the footnote dagger sign.
+typesetting articles, especially if you only need Western European glyphs.
 
 Further improvement may be to add more glyphs/language support. Greeks would be my priority if I had time because
 science is what I use this typeface for. Of course, any contribution is welcome.
