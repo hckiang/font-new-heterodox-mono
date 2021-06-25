@@ -74,4 +74,5 @@ good font rendering.
 
 # Screenshots
 
-![Screenshot](https://github.com/hckiang/font-new-heterodox-mono/blob/01a6678c565384117a91da9eda28ee53bbe65cb9/screenshot01.png)
+![Screenshot 1](https://github.com/hckiang/font-new-heterodox-mono/blob/fc9901a91e239494f11406eb86a96e8f8c4bda3b/screenshot01.png)
+![Screenshot 2](https://github.com/hckiang/font-new-heterodox-mono/blob/fc9901a91e239494f11406eb86a96e8f8c4bda3b/screenshot02.png)
