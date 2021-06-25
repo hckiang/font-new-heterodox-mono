@@ -58,9 +58,6 @@ letters more uniform. So for some glyphs I have got a little creative, liberally
 still taken care to retain the metalish feeling. Also the contrast has been slightly adjusted compared to Old
 Standard in order to improve readability in small size.
 
-The typeface, at the current stage, is pretty usable for the purpose of scientific/system programming or
-typesetting articles, especially if you only need Western European glyphs.
-
 Further improvement may be to add more glyphs/language support. Greeks would be my priority if I had time because
 science is what I use this typeface for. Of course, any contribution is welcome.
 
@@ -75,3 +72,4 @@ good font rendering.
 
 ![Screenshot 1](https://github.com/hckiang/font-new-heterodox-mono/blob/fc9901a91e239494f11406eb86a96e8f8c4bda3b/screenshot01.png)
 ![Screenshot 2](https://github.com/hckiang/font-new-heterodox-mono/blob/fc9901a91e239494f11406eb86a96e8f8c4bda3b/screenshot02.png)
+![Screenshot 3](https://github.com/hckiang/font-new-heterodox-mono/blob/c31a63deaa2db647191e498362f03c2ee615f6f1/screenshot03.png)
