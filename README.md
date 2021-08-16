@@ -16,6 +16,13 @@ the age of computers, the old-time new standard has become a new heterodoxy, as 
 design.
 
 
+# Screenshots
+
+![Screenshot 1](https://github.com/hckiang/font-new-heterodox-mono/blob/a089bfd5e49967ade0d0f888fd2318d7bb6ae4e5/screenshot03.png)
+![Screenshot 2](https://github.com/hckiang/font-new-heterodox-mono/blob/a089bfd5e49967ade0d0f888fd2318d7bb6ae4e5/screenshot05.png)
+![Screenshot 3](https://github.com/hckiang/font-new-heterodox-mono/blob/fc9901a91e239494f11406eb86a96e8f8c4bda3b/screenshot02.png)
+
+
 # Design Notes
 
 Over the years I have grown increasingly tired of looking at the mainstream sans-serif "programming fonts" all days.
@@ -76,10 +83,4 @@ Finally, if you find the font appearing "glitchy" in some Linux editors (such as
 a mis-configured font rendering engine. My personal experience is that Qt is more likely to have out-of-box
 good font rendering.
 
-
-# Screenshots
-
-![Screenshot 1](https://github.com/hckiang/font-new-heterodox-mono/blob/a089bfd5e49967ade0d0f888fd2318d7bb6ae4e5/screenshot03.png)
-![Screenshot 2](https://github.com/hckiang/font-new-heterodox-mono/blob/a089bfd5e49967ade0d0f888fd2318d7bb6ae4e5/screenshot05.png)
-![Screenshot 3](https://github.com/hckiang/font-new-heterodox-mono/blob/fc9901a91e239494f11406eb86a96e8f8c4bda3b/screenshot02.png)
 
