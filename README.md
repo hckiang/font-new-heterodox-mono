@@ -6,7 +6,7 @@ Some years ago I made an adaption of the beautiful open-source font _Old Standar
 for my own use. I have been using this a lot as my programming font but I had never made it public.
 Despite the typeface still has some room for improvement, I decided perhaps I should upload it in case someone
 finds this useful or wants to help developing it, as there are almost no free alternatives of this kind of
-monospace fonts out there.
+monospace fonts out there. In 2021 summer, I channelled some of my COVID-19 boredom into creating a new weight.
 
 I felt that it is very much non-"standard" in the computer science/programming community
 to use this kind of typeface in programming, so I named it "New Heterodox" as opposed to
@@ -57,6 +57,15 @@ approach, which prioritises keeping more 'agreeable' letterforms over making the
 letters more uniform. So for some glyphs I have got a little creative, liberally deviating from the tradition while
 still taken care to retain the metalish feeling. Also the contrast has been slightly adjusted compared to Old
 Standard in order to improve readability in small size.
+
+In 2021, I added a "Bold" weight, although most professional type designers would perhaps rather call it "Medium" or
+"Semi-bold". I named it "Bold" anyway because some editors may not be smart enough to automatically pick up the
+name "Medium". In traditional non-coding typography, the medium weight is usually not strong enough to make a piece
+of text visually stand out from the long body text, but coding is a bit different, as nowadays most people use syntax
+highlighting or at least some sort of colour coding in their programming editors. In such an environment, the
+visual contrast is achieved primarily via colours but not font weights, where the latter only serves to add typographic
+variation and increase the contrast created by the colours. Therefore I decided to make a lighter bold weight,
+which is usually more comfortable to read in a smaller size but still can add some weight to the already colour-coded text.
 
 Further improvement may be to add more glyphs/language support. Greeks would be my priority if I had time because
 science is what I use this typeface for. Of course, any contribution is welcome.
