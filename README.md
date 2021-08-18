@@ -87,7 +87,7 @@ good font rendering.
 
 * _There is a "dazzle" effect in modern types_: this seems to have arisen after 2000. Wikipedia cites the earliest mention
   of this is in Cees W. De Jong et al. 2005; I don't know if they are responsible for this myth or not. Modern types
-  has survived several generations of people, two world wars, facilitated mass literacy, been used from books to train timetables. It
+  have survived several generations of people, two world wars, facilitated mass literacy, been used from books to train timetables. It
   certainly does not dazzle anybody before the internet was invented, nor me.
 * _Didone types are not suitable to body text because of high contrast, so body size fonts need to be made sort of non-Didone,
   non-modern to be readable_: I read this on Wikipedia and from several bloggers, but, to be fair to Firmin Didot, Giambattista Bodoni and
