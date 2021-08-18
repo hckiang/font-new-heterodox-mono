@@ -16,6 +16,14 @@ the age of computers, the old-time new standard has become a new heterodoxy, as 
 design.
 
 
+# Screenshots
+
+![Screenshot 1](https://git.sr.ht/~hckiang/font-new-heterodox-mono/blob/assets/screenshot03.png)
+![Screenshot 2](https://git.sr.ht/~hckiang/font-new-heterodox-mono/blob/assets/screenshot05.png)
+![Screenshot 2](https://git.sr.ht/~hckiang/font-new-heterodox-mono/blob/assets/screenshot04.png)
+![Screenshot 3](https://git.sr.ht/~hckiang/font-new-heterodox-mono/blob/assets/screenshot02.png)
+
+
 # Design Notes
 
 Over the years I have grown increasingly tired of looking at the mainstream sans-serif "programming fonts" all days.
@@ -76,11 +84,15 @@ Finally, if you find the font appearing "glitchy" in some Linux editors (such as
 a mis-configured font rendering engine. My personal experience is that Qt is more likely to have out-of-box
 good font rendering.
 
+# Designer-circle Urban Myth
 
-# Screenshots
-
-![Screenshot 1](https://git.sr.ht/~hckiang/font-new-heterodox-mono/blob/assets/screenshot03.png)
-![Screenshot 2](https://git.sr.ht/~hckiang/font-new-heterodox-mono/blob/assets/screenshot05.png)
-![Screenshot 2](https://git.sr.ht/~hckiang/font-new-heterodox-mono/blob/assets/screenshot04.png)
-![Screenshot 3](https://git.sr.ht/~hckiang/font-new-heterodox-mono/blob/assets/screenshot02.png)
+* _There is a "dazzle" effect in modern types_: this seems to have arisen after 2000. Wikipedia cites the earliest mention
+  of this is in Cees W. De Jong et al. 2005; I don't know if they are responsible for this myth or not. Modern types
+  have survived several generations of people, two world wars, facilitated mass literacy, been used from books to train timetables. It
+  certainly does not dazzle anybody before the internet was invented, nor me.
+* _Didone types are not suitable to body text because of high contrast, so body size fonts need to be made sort of non-Didone,
+  non-modern to be readable_: I read this on Wikipedia and from several bloggers, but, to be fair to Firmin Didot, Giambattista Bodoni and
+  many others who are dead and hence unable to make a comment on the internet, the sentence should be rephrased as "many people in the 21st
+  century dislike high contrast fonts in body text."  Not even the rephrased sentence is true, though, as the entire mathematics community
+  has decided to use, as their default, Computer Modern, whose 10pt and 12pt still have quite extreme a contrast.
 
