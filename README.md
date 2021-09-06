@@ -34,6 +34,7 @@ If you find the font appearing "glitchy" in some Linux editors (such as emacs) t
 a mis-configured font rendering engine, perhaps the wrong DPI. My personal experience is that Qt is more likely to
 have out-of-box good font rendering.
 
+
 # Design Notes
 
 Over the years I have grown increasingly tired of looking at the mainstream sans-serif "programming fonts" all days.
@@ -87,6 +88,7 @@ which is usually more comfortable to read in a smaller size but still can add so
 
 Further improvement may be to add more glyphs/language support. Greeks would be my priority if I had time because
 science is what I use this typeface for. Of course, any contribution is welcome.
+
 
 # Designer-circle Urban Myths
 
