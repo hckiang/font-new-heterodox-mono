@@ -4,7 +4,7 @@ FullName: New Heterodox Mono Bold
 FamilyName: New Heterodox Mono
 Weight: Bold
 Copyright: Copyright (C) 2006-2008 Alexey Kryukov <alexios@thessalonica.org.ru>\nCopyright (C) 2021 Hao Chi Kiang <hello@hckiang.com>
-Version: 0.0.2
+Version: 0.0.3
 ItalicAngle: 0
 UnderlinePosition: -198
 UnderlineWidth: 40
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1222415241
-ModificationTime: 1629136949
+ModificationTime: 1630944392
 PfmFamily: 49
 TTFWeight: 700
 TTFWidth: 5
@@ -752,7 +752,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 31 11
+WinInfo: 62 31 11
 BeginPrivate: 7
 BlueValues 31 [-18 0 456 468 700 700 712 730]
 StdVW 5 [105]
@@ -988,7 +988,7 @@ SplineSet
  354 278 l 1
  354 37 l 1x4340
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: percent
@@ -1106,7 +1106,7 @@ SplineSet
  257.391304348 453 224 561 224 664 c 0
  224 709 244.4 730 284 730 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: parenleft
@@ -2661,7 +2661,7 @@ SplineSet
  341 192 363 149 367 70 c 1
  403 111 421 202 421 344 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: R
@@ -2709,7 +2709,7 @@ SplineSet
  260 0 l 1
  -3 0 l 1x7d
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: S
@@ -3237,7 +3237,7 @@ SplineSet
  189 366 201 347 201 318 c 0
  201 279 184 260 149 260 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: b
@@ -3307,7 +3307,7 @@ SplineSet
  519 147 l 1
  501 40 412 -12 292 -12 c 0xe8
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: d
@@ -3375,7 +3375,7 @@ SplineSet
  495.407960199 39 438.233830846 -12 292 -12 c 0
  135.851711027 -12 49 75 49 228 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: f
@@ -3415,7 +3415,7 @@ SplineSet
  508.821428571 724 543 677 543 615 c 0
  543 582 524 557 489 557 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: g
@@ -3544,7 +3544,7 @@ SplineSet
  48 0 l 5xe8
 EndSplineSet
 Refer: 163 729 N 1 0 0 1 51.52 36 2
-Validated: 524289
+Validated: 1
 Colour: ffff
 EndChar
 
@@ -3575,7 +3575,7 @@ SplineSet
  60 -61 78 -35 110 -35 c 0xf4
 EndSplineSet
 Refer: 163 729 N 1 0 0 1 183.08 36 2
-Validated: 524289
+Validated: 1
 Colour: ffff
 EndChar
 
@@ -5310,7 +5310,7 @@ SplineSet
  315.606060606 608 321.939393939 625 328 661 c 1
  358 661 l 1x70
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: breve
@@ -7607,7 +7607,7 @@ SplineSet
  76.759765625 613.940568499 94.589332796 608.040039062 122.120117188 608.040039062 c 0
  148.542541936 608.040039062 163.479492188 579.563885501 163.479492188 552.599609375 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: afii57929
@@ -7628,7 +7628,7 @@ SplineSet
  69 470 110 506 110 545 c 0
  110 588.854812659 38 573.571872733 38 645 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: afii64937
@@ -13171,7 +13171,7 @@ SplineSet
  192.562155484 -216.691556976 229 -190.993634655 229 -161 c 0
  229 -124.775562651 167 -143.074338408 167 -86 c 4
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: Acute

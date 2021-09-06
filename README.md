@@ -23,6 +23,16 @@ design.
 ![Screenshot 2](https://git.sr.ht/~hckiang/font-new-heterodox-mono/blob/assets/screenshot04.png)
 ![Screenshot 3](https://git.sr.ht/~hckiang/font-new-heterodox-mono/blob/assets/screenshot02.png)
 
+# Linux and Microsoft Font Rendering
+
+The original version of "New Heterodox Mono" is a cubic spline font. Linux is generally fine with cubic splines,
+but Windows' rasterizer is very still very broken to render this correctly in 2021. Windows users should use a
+slightly tweaked Truetype version, "New Heterodox Mono A". Unfortunately "New Heterodox Mono A" does not have a
+bold weight yet. If you use Linux you can use either version.
+
+If you find the font appearing "glitchy" in some Linux editors (such as emacs) then you probably have
+a mis-configured font rendering engine, perhaps the wrong DPI. My personal experience is that Qt is more likely to
+have out-of-box good font rendering.
 
 # Design Notes
 
@@ -78,16 +88,10 @@ which is usually more comfortable to read in a smaller size but still can add so
 Further improvement may be to add more glyphs/language support. Greeks would be my priority if I had time because
 science is what I use this typeface for. Of course, any contribution is welcome.
 
-# Linux Font Rendering
-
-Finally, if you find the font appearing "glitchy" in some Linux editors (such as emacs) then you probably have
-a mis-configured font rendering engine. My personal experience is that Qt is more likely to have out-of-box
-good font rendering.
-
-# Designer-circle Urban Myth
+# Designer-circle Urban Myths
 
 * _There is a "dazzle" effect in modern types_: this seems to have arisen after 2000. Wikipedia cites the earliest mention
-  of this is in Cees W. De Jong et al. 2005; I don't know if they are responsible for this myth or not. Modern types
+  of this is in Cees W. De Jong et al. 2005; I don't know if they are responsible for this or not. Modern types
   have survived several generations of people, two world wars, facilitated mass literacy, been used from books to train timetables. It
   certainly does not dazzle anybody before the internet was invented, nor me.
 * _Didone types are not suitable to body text because of high contrast, so body size fonts need to be made sort of non-Didone,
