@@ -15,6 +15,18 @@ popular) Ironically, "Old Standard" was named as opposed to "Obyknovennaya Novay
 the age of computers, the old-time new standard has become a new heterodoxy, as in many other things in
 design.
 
+# Linux and Microsoft Version
+
+Windows users should use "New Heterodox Mono A", the TTF version, and Linux users may prefer "New Heterodox Mono",
+the OTF version. Unfortunately "New Heterodox Mono A" does not have a bold weight yet. If you use Linux you can
+use either version.
+
+This is because the original version of "New Heterodox Mono" is a cubic spline OTF font, while "New Heterodox Mono A"
+is a quadratic spline font which contains some Truetype bytecode tweaks among other adjustments. Linux is generally fine
+with both types of fonts, but Windows' rasterizers are still very broken when it comes to cubic spline in 2021. On Windows,
+VSCode, MS Edge, and most PDF readers seem to use a more reasonable rasterizer for the cubic, but the rasterizer widely
+used by other native apps such as Notepad, Notepad++ and emacs is completely dysfunctional on cubic splines, due to their
+insistence on aggressive grid-fitting even on those OTF Postscript fonts which cannot have Truetype bytecode.
 
 # Screenshots
 
@@ -22,17 +34,6 @@ design.
 ![Screenshot 2](https://git.sr.ht/~hckiang/font-new-heterodox-mono/blob/assets/screenshot05.png)
 ![Screenshot 2](https://git.sr.ht/~hckiang/font-new-heterodox-mono/blob/assets/screenshot04.png)
 ![Screenshot 3](https://git.sr.ht/~hckiang/font-new-heterodox-mono/blob/assets/screenshot02.png)
-
-# Linux and Microsoft Font Rendering
-
-The original version of "New Heterodox Mono" is a cubic spline font. Linux is generally fine with cubic splines,
-but Windows' rasterizer is very still very broken to render this correctly in 2021. Windows users should use a
-slightly tweaked Truetype version, "New Heterodox Mono A". Unfortunately "New Heterodox Mono A" does not have a
-bold weight yet. If you use Linux you can use either version.
-
-If you find the font appearing "glitchy" in some Linux editors (such as emacs) then you probably have
-a mis-configured font rendering engine, perhaps the wrong DPI. My personal experience is that Qt is more likely to
-have out-of-box good font rendering.
 
 
 # Design Notes
