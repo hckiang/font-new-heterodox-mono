@@ -100,6 +100,6 @@ science is what I use this typeface for. Of course, any contribution is welcome.
 * _Didone types are not suitable to body text because of high contrast, so body size fonts need to be made sort of non-Didone,
   non-modern to be readable_: I read this on Wikipedia and from several bloggers, but, to be fair to Firmin Didot, Giambattista Bodoni and
   many others who are dead and hence unable to make a comment on the internet, the sentence should be rephrased as "many people in the 21st
-  century dislike high contrast fonts in body text."  Not even the rephrased sentence is true, though, as the entire mathematics community
+  century dislike high contrast fonts in body text."  Not even the rephrased sentence is very generalisable, though, as the entire mathematics community
   has decided to use, as their default, Computer Modern, whose 10pt and 12pt still have quite extreme a contrast.
 
