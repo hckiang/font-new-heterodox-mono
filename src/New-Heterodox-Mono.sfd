@@ -20,27 +20,27 @@ StyleMap: 0x0040
 FSType: 0
 OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 0
+OS2_UseTypoMetrics: 1
 CreationTime: 1222415241
-ModificationTime: 1630944206
+ModificationTime: 1645098190
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
-LineGap: 236
+LineGap: 246
 VLineGap: 0
 Panose: 2 4 5 9 5 5 5 2 3 3
-OS2TypoAscent: 762
+OS2TypoAscent: 820
 OS2TypoAOffset: 0
-OS2TypoDescent: -238
+OS2TypoDescent: -304
 OS2TypoDOffset: 0
-OS2TypoLinegap: 236
+OS2TypoLinegap: 246
 OS2WinAscent: 952
 OS2WinAOffset: 0
 OS2WinDescent: 294
 OS2WinDOffset: 0
-HheadAscent: 952
+HheadAscent: 820
 HheadAOffset: 0
-HheadDescent: -294
+HheadDescent: -304
 HheadDOffset: 0
 OS2SubXSize: 640
 OS2SubYSize: 660
@@ -752,9 +752,9 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 62 31 13
+WinInfo: 0 31 13
 BeginPrivate: 7
-BlueValues 31 [-18 0 456 468 700 700 712 730]
+BlueValues 31 [-18 0 456 468 684 700 712 730]
 StdVW 4 [84]
 StdHW 4 [38]
 OtherBlues 11 [-238 -238]
@@ -1398,29 +1398,29 @@ Encoding: 49 49 20
 Width: 566
 GlyphClass: 2
 Flags: W
-HStem: 0 38<67 249.828 335.663 499> 547 38<67 242.011>
-VStem: 251 84<40.8717 547> 300 35<642.722 684>
+HStem: 0 38<67 249.828 335.663 499> 547 38<67 242.011> 665 20G<297 335>
+VStem: 251 84<40.8717 547> 300 35<643.132 685>
 LayerCount: 2
 Fore
 SplineSet
-67 0 m 1xe0
+67 0 m 1xf0
  67 38 l 1
  203 38 l 2
  235 38 251 47 251 64 c 2
- 251 547 l 5xe0
- 67 547 l 5
+ 251 547 l 1xf0
+ 67 547 l 1
  67 585 l 1
  166 585 l 2
  203 585 234 595 257 614 c 0
- 280 633 294 657 300 684 c 1
- 335 684 l 1xd0
+ 280 633.271428571 294 657.614285714 300 685 c 5
+ 335 685 l 5xe8
  335 64 l 2
  335 47 344 38 363 38 c 2
  499 38 l 1
  499 0 l 1
- 67 0 l 1xe0
+ 67 0 l 1xf0
 EndSplineSet
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: two
@@ -2785,7 +2785,7 @@ SplineSet
  78 -10 l 1x43
  70 306 l 1x44
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: T
@@ -3968,7 +3968,7 @@ SplineSet
  216 207 l 2
  126.706054688 232 78 276 78 340 c 0xd4
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: t

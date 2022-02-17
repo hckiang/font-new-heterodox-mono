@@ -22,25 +22,25 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1222415241
-ModificationTime: 1630944392
+ModificationTime: 1645098454
 PfmFamily: 49
 TTFWeight: 700
 TTFWidth: 5
-LineGap: 236
+LineGap: 246
 VLineGap: 0
 Panose: 2 4 5 3 5 5 5 2 3 3
-OS2TypoAscent: 762
+OS2TypoAscent: 820
 OS2TypoAOffset: 0
-OS2TypoDescent: -238
+OS2TypoDescent: -304
 OS2TypoDOffset: 0
-OS2TypoLinegap: 236
+OS2TypoLinegap: 246
 OS2WinAscent: 952
 OS2WinAOffset: 0
 OS2WinDescent: 294
 OS2WinDOffset: 0
-HheadAscent: 952
+HheadAscent: 820
 HheadAOffset: 0
-HheadDescent: -294
+HheadDescent: -304
 HheadDOffset: 0
 OS2SubXSize: 640
 OS2SubYSize: 660
@@ -752,9 +752,9 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 62 31 11
+WinInfo: 0 31 11
 BeginPrivate: 7
-BlueValues 31 [-18 0 456 468 700 700 712 730]
+BlueValues 31 [-18 0 456 468 684 700 712 730]
 StdVW 5 [105]
 StdHW 4 [46]
 OtherBlues 11 [-238 -238]
@@ -1377,8 +1377,8 @@ SplineSet
  70 46 l 1
  195 46 l 2
  224 46 240 55 240 71 c 2
- 240 540 l 5xe0
- 70 540 l 5
+ 240 540 l 1xe0
+ 70 540 l 1
  70 586 l 1
  169 586 l 2
  206 586 237 596 260 615 c 0
@@ -1500,15 +1500,15 @@ SplineSet
  167 46 l 1
  261 46 l 2
  291 46 305 53 305 69 c 2
- 305 190 l 5
- 43 190 l 5
+ 305 190 l 1
+ 43 190 l 1
  43 232 l 1
- 336 693 l 1
+ 336 693 l 5
  410 693 l 1
  410 236 l 1
  522 236 l 1
- 522 190 l 5
- 410 190 l 5
+ 522 190 l 1
+ 410 190 l 1
  410 69 l 2
  410 53 418 46 435 46 c 2
  524 46 l 1
