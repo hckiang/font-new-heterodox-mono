@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1222415241
-ModificationTime: 1645098190
+ModificationTime: 1685606153
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -752,7 +752,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 31 13
+WinInfo: 9509 37 14
 BeginPrivate: 7
 BlueValues 31 [-18 0 456 468 684 700 712 730]
 StdVW 4 [84]
@@ -764,7 +764,7 @@ StemSnapV 11 [42 84 102]
 EndPrivate
 TeXData: 1 0 0 593494 296747 197831 478151 1048576 197831 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Top"""  "Bottom"""  "Enclosing"""  "GreekTop"""  "GreekTopSunken"""  "GreekCap"""  "TopMark"""  "GreekTopMark"""  "GreekTopMarkSunken""" 
-BeginChars: 65539 881
+BeginChars: 65539 883
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -1420,7 +1420,7 @@ SplineSet
  499 0 l 1
  67 0 l 1xf0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: two
@@ -14225,6 +14225,40 @@ SplineSet
  64 592 80 632 112 664 c 0
  144 696 184 712 232 712 c 2
  510 712 l 5xb0
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: dnblock
+Encoding: 9604 9604 881
+Width: 566
+HStem: -361 623<0 566>
+VStem: 0 566<-361 262>
+LayerCount: 2
+Fore
+SplineSet
+0 -361 m 2
+ 0 262 l 2
+ 566 262 l 2
+ 566 -361 l 2
+ 0 -361 l 2
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: upblock
+Encoding: 9600 9600 882
+Width: 566
+HStem: 262 623<0 566>
+VStem: 0 566<262 885>
+LayerCount: 2
+Fore
+SplineSet
+0 885 m 2
+ 566 885 l 2
+ 566 262 l 2
+ 0 262 l 2
+ 0 885 l 2
 EndSplineSet
 Validated: 1
 EndChar
