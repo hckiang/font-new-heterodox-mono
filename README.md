@@ -30,11 +30,10 @@ insistence on aggressive grid-fitting even on those OTF Postscript fonts which c
 
 # Screenshots
 
-![Screenshot 1](https://git.sr.ht/~hckiang/font-new-heterodox-mono/blob/assets/screenshot03.png)
-![Screenshot 2](https://git.sr.ht/~hckiang/font-new-heterodox-mono/blob/assets/screenshot05.png)
-![Screenshot 2](https://git.sr.ht/~hckiang/font-new-heterodox-mono/blob/assets/screenshot04.png)
-![Screenshot 3](https://git.sr.ht/~hckiang/font-new-heterodox-mono/blob/assets/screenshot02.png)
-
+![Screenshot 1](https://github.com/hckiang/font-new-heterodox-mono/blob/assets/screenshot01.png?raw=true)
+![Screenshot 2](https://github.com/hckiang/font-new-heterodox-mono/blob/assets/screenshot05.png?raw=true)
+![Screenshot 3](https://github.com/hckiang/font-new-heterodox-mono/blob/assets/screenshot04.png?raw=true)
+![Screenshot 4](https://github.com/hckiang/font-new-heterodox-mono/blob/assets/screenshot02.png?raw=true)
 
 # Design Notes
 
